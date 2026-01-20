@@ -14,7 +14,19 @@ Este projeto foi desenvolvido em Power BI com o objetivo de aplicar análise de 
 - DAX
 - Modelagem de dados
 - Visual Analytics
+## Prints do Dashboard
 
+### Ranking de Convocação
+![Ranking](imagens/ranking.png)
+
+### Time Titular Projetado
+![Time Titular](imagens/time_titular.png)
+
+### Simulador de Copa 2026
+![Simulador](imagens/simulador.png)
+
+### Conclusões
+![Conclusões](imagens/conclusao.png)
 
 
 ## Observação
